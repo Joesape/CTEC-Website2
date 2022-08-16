@@ -10,4 +10,4 @@ var review_array = []; // This creates an empty review array
 var popcornBWImage = 'images/popcorn_bw.png';
 var popcornImage = 'images/popcorn.png';
 var rating = 0;
-var transurl = new URL("")
+var transurl = new URL("https://fceue1n2aa.execute-api.us-east-1.amazonaws.com/dev")
